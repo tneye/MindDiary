@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>668642082863-1untv1ff0h5tfgosi9b7k7i9c1qkrng4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.668642082863-1untv1ff0h5tfgosi9b7k7i9c1qkrng4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdLqEdSin44a8V-NoMmIiHNExe5gRhsWI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>668642082863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.one-dek.app.projext-emotionalTraking</string>
+	<key>PROJECT_ID</key>
+	<string>emotionaltracking-422bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emotionaltracking-422bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:668642082863:ios:f8625335b1206b05d786da</string>
+</dict>
+</plist>
